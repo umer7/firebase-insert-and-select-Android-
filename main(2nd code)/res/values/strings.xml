@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">udacity11</string>
+    <string name="send_button_label">Send Message</string>
+</resources>
